@@ -1,0 +1,3 @@
+[submodule "cabot-alert-skeleton"]
+	path = cabot-alert-skeleton
+	url = git@github.com:senzil/cabot-alert-skeleton.git

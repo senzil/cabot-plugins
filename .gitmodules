@@ -4,3 +4,6 @@
 [submodule "cabot-check-http"]
 	path = cabot-check-http
 	url = https://github.com/senzil/cabot-check-http.git
+[submodule "cabot-alert-email"]
+	path = cabot-alert-email
+	url = https://github.com/senzil/cabot-alert-email.git

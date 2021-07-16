@@ -7,3 +7,6 @@
 [submodule "cabot-alert-email"]
 	path = cabot-alert-email
 	url = https://github.com/senzil/cabot-alert-email.git
+[submodule "cabot-alert-slack"]
+	path = cabot-alert-slack
+	url = https://github.com/senzil/cabot-alert-slack.git

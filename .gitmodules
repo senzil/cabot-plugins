@@ -10,3 +10,60 @@
 [submodule "cabot-alert-slack"]
 	path = cabot-alert-slack
 	url = https://github.com/senzil/cabot-alert-slack.git
+[submodule "cabot-alert-twilio"]
+	path = cabot-alert-twilio
+	url = git@github.com:senzil/cabot-alert-twilio.git
+[submodule "cabot-alert-hipchat"]
+	path = cabot-alert-hipchat
+	url = git@github.com:senzil/cabot-alert-hipchat.git
+[submodule "cabot-check-network"]
+	path = cabot-check-network
+	url = git@github.com:senzil/cabot-check-network.git
+[submodule "cabot-check-cloudwatch"]
+	path = cabot-check-cloudwatch
+	url = git@github.com:senzil/cabot-check-cloudwatch.git
+[submodule "cabot-check-skeleton"]
+	path = cabot-check-skeleton
+	url = git@github.com:senzil/cabot-check-skeleton.git
+[submodule "cabot-check-graphite"]
+	path = cabot-check-graphite
+	url = git@github.com:senzil/cabot-check-graphite.git
+[submodule "cabot-check-jenkins"]
+	path = cabot-check-jenkins
+	url = git@github.com:senzil/cabot-check-jenkins.git
+[submodule "cabot-check-icmp"]
+	path = cabot-check-icmp
+	url = git@github.com:senzil/cabot-check-icmp.git
+[submodule "cabot-alert-rocketchat"]
+	path = cabot-alert-rocketchat
+	url = git@github.com:senzil/cabot-alert-rocketchat.git
+[submodule "cabot-alert-typetalk"]
+	path = cabot-alert-typetalk
+	url = git@github.com:senzil/cabot-alert-typetalk.git
+[submodule "cabot-alert-webhook"]
+	path = cabot-alert-webhook
+	url = git@github.com:senzil/cabot-alert-webhook.git
+[submodule "cabot-alert-telegram"]
+	path = cabot-alert-telegram
+	url = git@github.com:senzil/cabot-alert-telegram.git
+[submodule "cabot-check-prometheus"]
+	path = cabot-check-prometheus
+	url = git@github.com:senzil/cabot-check-prometheus.git
+[submodule "cabot-check-ping"]
+	path = cabot-check-ping
+	url = git@github.com:senzil/cabot-check-ping.git
+[submodule "cabot-alert-ovh"]
+	path = cabot-alert-ovh
+	url = git@github.com:senzil/cabot-alert-ovh.git
+[submodule "cabot-alert-alerta"]
+	path = cabot-alert-alerta
+	url = git@github.com:senzil/cabot-alert-alerta.git
+[submodule "cabot-alert-irc"]
+	path = cabot-alert-irc
+	url = git@github.com:senzil/cabot-alert-irc.git
+[submodule "cabot-alert-pushover"]
+	path = cabot-alert-pushover
+	url = git@github.com:senzil/cabot-alert-pushover.git
+[submodule "cabot-check-sslcert"]
+	path = cabot-check-sslcert
+	url = git@github.com:senzil/cabot-check-sslcert.git
